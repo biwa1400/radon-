@@ -1,0 +1,180 @@
+P: /devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.2/ttyUSB0/tty/ttyUSB0
+N: ttyUSB0
+S: serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if02-port0
+S: serial/by-path/platform-3f980000.usb-usb-0:1.4:1.2-port0
+E: DEVLINKS=/dev/serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if02-port0 /dev/serial/by-path/platform-3f980000.usb-usb-0:1.4:1.2-port0
+E: DEVNAME=/dev/ttyUSB0
+E: DEVPATH=/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.2/ttyUSB0/tty/ttyUSB0
+E: ID_BUS=usb
+E: ID_MODEL=HUAWEI_MOBILE
+E: ID_MODEL_ENC=HUAWEI_MOBILE
+E: ID_MODEL_ID=1566
+E: ID_PATH=platform-3f980000.usb-usb-0:1.4:1.2
+E: ID_PATH_TAG=platform-3f980000_usb-usb-0_1_4_1_2
+E: ID_REVISION=0102
+E: ID_SERIAL=HUAWEI_MOBILE_HUAWEI_MOBILE
+E: ID_TYPE=generic
+E: ID_USB_CLASS_FROM_DATABASE=Communications
+E: ID_USB_DRIVER=option
+E: ID_USB_INTERFACES=:020600:0a0600:ff0212:ff020a:ff0205:ff0203:ff0214:ff0213:080650:
+E: ID_USB_INTERFACE_NUM=02
+E: ID_VENDOR=HUAWEI_MOBILE
+E: ID_VENDOR_ENC=HUAWEI_MOBILE
+E: ID_VENDOR_FROM_DATABASE=Huawei Technologies Co., Ltd.
+E: ID_VENDOR_ID=12d1
+E: MAJOR=188
+E: MINOR=0
+E: SUBSYSTEM=tty
+E: TAGS=:systemd:
+E: USEC_INITIALIZED=52939668
+
+P: /devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.3/ttyUSB1/tty/ttyUSB1
+N: ttyUSB1
+S: serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if03-port0
+S: serial/by-path/platform-3f980000.usb-usb-0:1.4:1.3-port0
+E: DEVLINKS=/dev/serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if03-port0 /dev/serial/by-path/platform-3f980000.usb-usb-0:1.4:1.3-port0
+E: DEVNAME=/dev/ttyUSB1
+E: DEVPATH=/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.3/ttyUSB1/tty/ttyUSB1
+E: ID_BUS=usb
+E: ID_MODEL=HUAWEI_MOBILE
+E: ID_MODEL_ENC=HUAWEI_MOBILE
+E: ID_MODEL_ID=1566
+E: ID_PATH=platform-3f980000.usb-usb-0:1.4:1.3
+E: ID_PATH_TAG=platform-3f980000_usb-usb-0_1_4_1_3
+E: ID_REVISION=0102
+E: ID_SERIAL=HUAWEI_MOBILE_HUAWEI_MOBILE
+E: ID_TYPE=generic
+E: ID_USB_CLASS_FROM_DATABASE=Communications
+E: ID_USB_DRIVER=option
+E: ID_USB_INTERFACES=:020600:0a0600:ff0212:ff020a:ff0205:ff0203:ff0214:ff0213:080650:
+E: ID_USB_INTERFACE_NUM=03
+E: ID_VENDOR=HUAWEI_MOBILE
+E: ID_VENDOR_ENC=HUAWEI_MOBILE
+E: ID_VENDOR_FROM_DATABASE=Huawei Technologies Co., Ltd.
+E: ID_VENDOR_ID=12d1
+E: MAJOR=188
+E: MINOR=1
+E: SUBSYSTEM=tty
+E: TAGS=:systemd:
+E: USEC_INITIALIZED=52942930
+
+P: /devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.4/ttyUSB2/tty/ttyUSB2
+N: ttyUSB2
+S: serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if04-port0
+S: serial/by-path/platform-3f980000.usb-usb-0:1.4:1.4-port0
+E: DEVLINKS=/dev/serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if04-port0 /dev/serial/by-path/platform-3f980000.usb-usb-0:1.4:1.4-port0
+E: DEVNAME=/dev/ttyUSB2
+E: DEVPATH=/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.4/ttyUSB2/tty/ttyUSB2
+E: ID_BUS=usb
+E: ID_MODEL=HUAWEI_MOBILE
+E: ID_MODEL_ENC=HUAWEI_MOBILE
+E: ID_MODEL_ID=1566
+E: ID_PATH=platform-3f980000.usb-usb-0:1.4:1.4
+E: ID_PATH_TAG=platform-3f980000_usb-usb-0_1_4_1_4
+E: ID_REVISION=0102
+E: ID_SERIAL=HUAWEI_MOBILE_HUAWEI_MOBILE
+E: ID_TYPE=generic
+E: ID_USB_CLASS_FROM_DATABASE=Communications
+E: ID_USB_DRIVER=option
+E: ID_USB_INTERFACES=:020600:0a0600:ff0212:ff020a:ff0205:ff0203:ff0214:ff0213:080650:
+E: ID_USB_INTERFACE_NUM=04
+E: ID_VENDOR=HUAWEI_MOBILE
+E: ID_VENDOR_ENC=HUAWEI_MOBILE
+E: ID_VENDOR_FROM_DATABASE=Huawei Technologies Co., Ltd.
+E: ID_VENDOR_ID=12d1
+E: MAJOR=188
+E: MINOR=2
+E: SUBSYSTEM=tty
+E: TAGS=:systemd:
+E: USEC_INITIALIZED=52943774
+
+P: /devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.5/ttyUSB3/tty/ttyUSB3
+N: ttyUSB3
+S: serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if05-port0
+S: serial/by-path/platform-3f980000.usb-usb-0:1.4:1.5-port0
+E: DEVLINKS=/dev/serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if05-port0 /dev/serial/by-path/platform-3f980000.usb-usb-0:1.4:1.5-port0
+E: DEVNAME=/dev/ttyUSB3
+E: DEVPATH=/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.5/ttyUSB3/tty/ttyUSB3
+E: ID_BUS=usb
+E: ID_MODEL=HUAWEI_MOBILE
+E: ID_MODEL_ENC=HUAWEI_MOBILE
+E: ID_MODEL_ID=1566
+E: ID_PATH=platform-3f980000.usb-usb-0:1.4:1.5
+E: ID_PATH_TAG=platform-3f980000_usb-usb-0_1_4_1_5
+E: ID_REVISION=0102
+E: ID_SERIAL=HUAWEI_MOBILE_HUAWEI_MOBILE
+E: ID_TYPE=generic
+E: ID_USB_CLASS_FROM_DATABASE=Communications
+E: ID_USB_DRIVER=option
+E: ID_USB_INTERFACES=:020600:0a0600:ff0212:ff020a:ff0205:ff0203:ff0214:ff0213:080650:
+E: ID_USB_INTERFACE_NUM=05
+E: ID_VENDOR=HUAWEI_MOBILE
+E: ID_VENDOR_ENC=HUAWEI_MOBILE
+E: ID_VENDOR_FROM_DATABASE=Huawei Technologies Co., Ltd.
+E: ID_VENDOR_ID=12d1
+E: MAJOR=188
+E: MINOR=3
+E: SUBSYSTEM=tty
+E: TAGS=:systemd:
+E: USEC_INITIALIZED=52944578
+
+P: /devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.6/ttyUSB4/tty/ttyUSB4
+N: ttyUSB4
+S: serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if06-port0
+S: serial/by-path/platform-3f980000.usb-usb-0:1.4:1.6-port0
+E: DEVLINKS=/dev/serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if06-port0 /dev/serial/by-path/platform-3f980000.usb-usb-0:1.4:1.6-port0
+E: DEVNAME=/dev/ttyUSB4
+E: DEVPATH=/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.6/ttyUSB4/tty/ttyUSB4
+E: ID_BUS=usb
+E: ID_MODEL=HUAWEI_MOBILE
+E: ID_MODEL_ENC=HUAWEI_MOBILE
+E: ID_MODEL_ID=1566
+E: ID_PATH=platform-3f980000.usb-usb-0:1.4:1.6
+E: ID_PATH_TAG=platform-3f980000_usb-usb-0_1_4_1_6
+E: ID_REVISION=0102
+E: ID_SERIAL=HUAWEI_MOBILE_HUAWEI_MOBILE
+E: ID_TYPE=generic
+E: ID_USB_CLASS_FROM_DATABASE=Communications
+E: ID_USB_DRIVER=option
+E: ID_USB_INTERFACES=:020600:0a0600:ff0212:ff020a:ff0205:ff0203:ff0214:ff0213:080650:
+E: ID_USB_INTERFACE_NUM=06
+E: ID_VENDOR=HUAWEI_MOBILE
+E: ID_VENDOR_ENC=HUAWEI_MOBILE
+E: ID_VENDOR_FROM_DATABASE=Huawei Technologies Co., Ltd.
+E: ID_VENDOR_ID=12d1
+E: MAJOR=188
+E: MINOR=4
+E: SUBSYSTEM=tty
+E: TAGS=:systemd:
+E: USEC_INITIALIZED=52945422
+
+P: /devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.7/ttyUSB5/tty/ttyUSB5
+N: ttyUSB5
+S: serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if07-port0
+S: serial/by-path/platform-3f980000.usb-usb-0:1.4:1.7-port0
+E: DEVLINKS=/dev/serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if07-port0 /dev/serial/by-path/platform-3f980000.usb-usb-0:1.4:1.7-port0
+E: DEVNAME=/dev/ttyUSB5
+E: DEVPATH=/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.4/1-1.4:1.7/ttyUSB5/tty/ttyUSB5
+E: ID_BUS=usb
+E: ID_MODEL=HUAWEI_MOBILE
+E: ID_MODEL_ENC=HUAWEI_MOBILE
+E: ID_MODEL_ID=1566
+E: ID_PATH=platform-3f980000.usb-usb-0:1.4:1.7
+E: ID_PATH_TAG=platform-3f980000_usb-usb-0_1_4_1_7
+E: ID_REVISION=0102
+E: ID_SERIAL=HUAWEI_MOBILE_HUAWEI_MOBILE
+E: ID_TYPE=generic
+E: ID_USB_CLASS_FROM_DATABASE=Communications
+E: ID_USB_DRIVER=option
+E: ID_USB_INTERFACES=:020600:0a0600:ff0212:ff020a:ff0205:ff0203:ff0214:ff0213:080650:
+E: ID_USB_INTERFACE_NUM=07
+E: ID_VENDOR=HUAWEI_MOBILE
+E: ID_VENDOR_ENC=HUAWEI_MOBILE
+E: ID_VENDOR_FROM_DATABASE=Huawei Technologies Co., Ltd.
+E: ID_VENDOR_ID=12d1
+E: MAJOR=188
+E: MINOR=5
+E: SUBSYSTEM=tty
+E: TAGS=:systemd:
+E: USEC_INITIALIZED=52946320
+
