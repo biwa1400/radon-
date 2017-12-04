@@ -27,9 +27,8 @@ class NetRouter_Handler:
 	
 	def keepConnect(self):
 		while True:
-			print('check reconnect!!!!!!!!!!!!!')
 			self.device.ckeck_fix_disconnect()
-			time.sleep(120)
+			time.sleep(5)
 	
 	#interface
 	def request(self,requestString):

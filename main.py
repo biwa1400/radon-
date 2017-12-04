@@ -8,10 +8,16 @@ import json
 import paho.mqtt.client as mqtt
 
 def init_mqtt():
-	mqttClient.username_pw_set("radon_1", "qweasdzxc")  
-	HOST = "108.61.171.128"
-	mqttClient.connect(HOST, 1883, 60)
-	mqttClient.loop_start()
+	while True:
+		try:
+			mqttClient.username_pw_set("radon_1", "qweasdzxc")  
+			HOST = "m23.cloudmqtt.com"
+			mqttClient.connect(HOST, 11112, 5)
+			mqttClient.loop_start()
+			break
+		except:
+			print ("in init except")
+			time.sleep(5)
 
 def publish_location(mcc,mnc,lac,cid):
 	data = [{'mcc':mcc,'mnc':mnc,'lac':lac,'cid':cid}]
@@ -35,13 +41,12 @@ while True:
 	print('-------')
 	if location.lac != 0 and location.cid !=0:
 		try:
+			print("in mqtt send")
 			publish_location(mcc,mnc,location.lac,location.cid)
 		except:
-			try:
-				init_mqtt()
-			except:
-				pass
-			
+			print ("in send except")
+			init_mqtt()
+
 	time.sleep(5)
 	
 
